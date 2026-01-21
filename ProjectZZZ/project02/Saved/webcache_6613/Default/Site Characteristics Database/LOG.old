@@ -1,5 +1,1 @@
-2026/01/21-17:04:02.600 57c4 Log #3: 2 ops saved to Table #4 OK
-2026/01/21-17:04:02.602 57c4 Archiving C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/01/21-17:04:02.602 57c4 Table #4: 2 entries OK
-2026/01/21-17:04:02.603 57c4 Archiving C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/21-17:04:02.606 57c4 **** Repaired leveldb C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/01/21-17:04:02.608 57c4 Reusing MANIFEST C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
