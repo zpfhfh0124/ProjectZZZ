@@ -1,13 +1,13 @@
-[22596:30756:0121/163410.289:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22596:35000:0121/163410.324:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22596:30756:0121/163410.343:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22596:30756:0121/163413.582:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[14864:29808:0121/163414.548:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9128155537D290B7C61D6383974A7616 will be ignored
-[22596:26108:0121/163415.012:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[22596:30756:0121/163415.055:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[22596:30756:0121/163415.056:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[22596:30756:0121/163415.056:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[22596:30756:0121/163415.056:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[22596:26108:0121/163415.099:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[31592:7420:0121/163625.960:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-20C3A5466DC582EBC66667883C75F7ED will be ignored
-[22596:30756:0121/163719.531:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[37040:35096:0121/170402.543:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[37040:22468:0121/170402.574:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[37040:35096:0121/170402.590:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37040:17028:0121/170404.737:WARNING:leveldb_database.cc(141)] Unable to open C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37040:35096:0121/170404.737:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[37040:17028:0121/170404.738:WARNING:leveldb_database.cc(141)] Unable to open C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37040:17028:0121/170404.741:WARNING:leveldb_database.cc(141)] Unable to open C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37040:17028:0121/170404.742:WARNING:leveldb_database.cc(141)] Unable to open C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37040:13944:0121/170405.290:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37040:13944:0121/170405.291:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33948:32376:0121/170405.672:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6D54ACE9BBC5A9CAF616BE3CED44FDEE will be ignored
+[37040:33636:0121/170408.831:WARNING:leveldb_database.cc(141)] Unable to open C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\01.dev\project02\ProjectZZZ\ProjectZZZ\project02\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37040:35096:0121/170845.567:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
