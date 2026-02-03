@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "AttributeSet.h"
+#include "AbilitySystemComponent.h"
 #include "BossCharacterStatus.generated.h"
 
 
@@ -26,12 +27,26 @@ public:
 	virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;
 	virtual void PostGameplayEffectExecute(const struct FGameplayEffectModCallbackData& Data) override;
 	
+	void AdjustChangeMaxStatus(
+			FGameplayAttributeData& affectAttribute, 
+			const FGameplayAttributeData& maxAttribute, 
+			float newValue, 
+			const FGameplayAttribute& affectAttributeProperty
+		);
+	
+	UPROPERTY(BlueprintReadWrite)
 	FGameplayAttributeData _health;
-	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _health);
+	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _health)
+	
+	UPROPERTY(BlueprintReadWrite)
 	FGameplayAttributeData _maxHealth;
-	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _maxHealth);
+	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _maxHealth)
+	
+	UPROPERTY(BlueprintReadWrite)
 	FGameplayAttributeData _stamina;
-	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _stamina);
+	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _stamina)
+	
+	UPROPERTY(BlueprintReadWrite)
 	FGameplayAttributeData _maxStamina;
-	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _maxStamina);
+	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _maxStamina)
 };
