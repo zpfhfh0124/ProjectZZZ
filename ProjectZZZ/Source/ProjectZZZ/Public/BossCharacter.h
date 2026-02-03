@@ -25,8 +25,10 @@ protected:
 	class UBossCharacterStatus* _status;
 	UPROPERTY()
 	class UAbilitySystemComponent* _asc;
-	UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="Status")
+	UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="AbilitySystem|Status")
 	TSubclassOf<class UGameplayEffect> _defaultStatusEffect;
+	UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="AbilitySystem|Ability")
+	TArray<TSubclassOf<class UGameplayAbility>> _defaultAbilities;
 	
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -39,4 +41,9 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	void InitializeStatus();
+	void GiveDefaultAbilities();
+	
+	UFUNCTION(BlueprintCallable)
+	void TryActiveAbility(int32 id);
 };
+

@@ -49,4 +49,12 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 	FGameplayAttributeData _maxStamina;
 	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _maxStamina)
+	
+	UPROPERTY(BlueprintReadWrite)
+	FGameplayAttributeData _attackPoint;
+	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _attackPoint)
+	
+	UPROPERTY(BlueprintReadWrite)
+	FGameplayAttributeData _defencePoint;
+	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _defencePoint)
 };

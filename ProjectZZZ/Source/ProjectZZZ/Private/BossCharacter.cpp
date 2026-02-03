@@ -69,5 +69,32 @@ void ABossCharacter::InitializeStatus()
 	{
 		_asc->ApplyGameplayEffectSpecToTarget(*handle.Data.Get(), _asc);
 	}
+	
+	GiveDefaultAbilities();
 }
 
+void ABossCharacter::GiveDefaultAbilities()
+{
+	if (nullptr == _asc)
+	{
+		return;
+	}
+	
+	for (auto& ability : _defaultAbilities)
+	{
+		// #2 현재 플레이어가 몇가지 기술을 배웠는가
+		// #3 [키가 들어가는 자리]
+		_asc->GiveAbility(FGameplayAbilitySpec(ability, 0, 0, this));
+	}
+}
+
+void ABossCharacter::TryActiveAbility(int32 id)
+{
+	auto spec = _asc->FindAbilitySpecFromInputID(id);
+	if (nullptr == spec)
+	{
+		return;
+	}
+	
+	_asc->TryActivateAbility(spec->Handle);
+}

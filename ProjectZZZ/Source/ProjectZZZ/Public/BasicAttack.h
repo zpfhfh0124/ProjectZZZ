@@ -19,4 +19,6 @@ public:
 	TSubclassOf<class UGameplayEffect> _damageEffect;
 	UPROPERTY(BlueprintReadOnly, EditAnywhere)
 	float _damageRate;
+	
+	/*void ActiveteAbility(const FGameplayAbilitySpecHandle* Handle, FGameplayAbilityActorInfo* ActorInfo, const FGameplayAbilityActivationInfo ActivationInfo, const FGameplayEventData* TriggerEvenData);*/
 };

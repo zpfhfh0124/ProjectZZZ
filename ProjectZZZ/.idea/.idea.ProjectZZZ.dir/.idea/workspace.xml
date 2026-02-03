@@ -8,8 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0d34c8e-d4b2-4960-bbbc-f96a25d2b368" name="변경" comment="변경">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectZZZ.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectZZZ.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/Private/BossCharacterStatus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/Private/BossCharacterStatus.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/GamePlayAbility/GA/GA_BasicAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/GamePlayAbility/GA/GA_BasicAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/AI/MS_BTTask_Attack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/AI/MS_BTTask_Attack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/AttackSystem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/AttackSystem.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/MS_BP_Monster02_real.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/MS_BP_Monster02_real.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/Private/BasicAttack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/Private/BasicAttack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/Private/BossCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/Private/BossCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/Public/BasicAttack.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/Public/BasicAttack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/Public/BossCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/Public/BossCharacter.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/Public/BossCharacterStatus.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/Public/BossCharacterStatus.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +74,7 @@
       <workItem from="1770119728324" duration="766000" />
       <workItem from="1770120674993" duration="624000" />
       <workItem from="1770121893220" duration="1269000" />
-      <workItem from="1770123201690" duration="2347000" />
+      <workItem from="1770123201690" duration="17039000" />
     </task>
     <servers />
   </component>
