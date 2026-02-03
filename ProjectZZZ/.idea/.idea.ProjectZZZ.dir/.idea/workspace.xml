@@ -9,10 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0d34c8e-d4b2-4960-bbbc-f96a25d2b368" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectZZZ.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectZZZ.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/AttackSystem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/AttackSystem.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/MS_BP_Monster02_real.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/MS_BP_Monster02_real.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Mat_Mutant_diffuse_Mat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Mat_Mutant_diffuse_Mat.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/MainMap/D/VV/GJQHPODDQ9U65CN37V4FX8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/MainMap/D/VV/GJQHPODDQ9U65CN37V4FX8.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,37 +18,53 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rottencarrot0"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rottencarrot0&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/zpfhfh0124/ProjectZZZ.git",
-    "accountId": "1c11691c-35eb-45f6-b708-5c37dc733b8e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zpfhfh0124/ProjectZZZ.git&quot;,
+    &quot;accountId&quot;: &quot;1c11691c-35eb-45f6-b708-5c37dc733b8e&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/ProjectZZZ/Private/BossCharacterStatus.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="399HGRsJEhXR2y74iZaFk4zECQ4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "miso",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;miso&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1770119723080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770119723080</updated>
+      <workItem from="1770119728324" duration="766000" />
+      <workItem from="1770120674993" duration="306000" />
+    </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
