@@ -9,8 +9,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d0d34c8e-d4b2-4960-bbbc-f96a25d2b368" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectZZZ.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectZZZ.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectZZZ.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectZZZ.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectZZZ/ProjectZZZ.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectZZZ/ProjectZZZ.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/AttackSystem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/AttackSystem.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/MS_BP_Monster02_real.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Blueprint/MS_BP_Monster02_real.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Mat_Mutant_diffuse_Mat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Mat_Mutant_diffuse_Mat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/MainMap/D/VV/GJQHPODDQ9U65CN37V4FX8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/MainMap/D/VV/GJQHPODDQ9U65CN37V4FX8.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="miso" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
