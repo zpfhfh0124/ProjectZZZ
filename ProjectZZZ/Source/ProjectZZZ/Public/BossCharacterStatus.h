@@ -15,6 +15,8 @@
 	GAMEPLAYATTRIBUTE_VALUE_INITTER(PropertyName)
 #undef UE_API
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FDHPChanged, float, hpRate);
+
 /**
  * 
  */
@@ -57,4 +59,7 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 	FGameplayAttributeData _defencePoint;
 	ATTRIBUTE_ACCESSORS(UBossCharacterStatus, _defencePoint)
+	
+	UPROPERTY(BlueprintAssignable, Category="Event")
+	FDHPChanged HPChanged;
 };
