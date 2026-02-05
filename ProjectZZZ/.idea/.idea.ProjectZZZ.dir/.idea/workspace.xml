@@ -7,7 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d34c8e-d4b2-4960-bbbc-f96a25d2b368" name="변경" comment="" />
+    <list default="true" id="d0d34c8e-d4b2-4960-bbbc-f96a25d2b368" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/MS_MG_Swiping.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/MS_MG_Swiping.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/MS_MG_jump_attack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/MS_MG_jump_attack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/mutant_swiping_Anim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/mutant_swiping_Anim.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/mutant_walking_Anim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Miso02/Character/Monster/Animation/Locomotion/mutant_walking_Anim.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +22,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "miso",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;miso&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <servers />
   </component>
